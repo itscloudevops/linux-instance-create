@@ -96,6 +96,8 @@ cd /var/www/html
 
 vi index.html
 
+Press-i
+
 ```
 <!DOCTYPE html>
 <html>
