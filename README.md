@@ -64,3 +64,18 @@ Login As 👇
 ```
 ec2-user
 ```
+
+### 9. Allow Some Permission In order to Host Website🛠️🏗️
+
+Update your linux instance
+
+```
+sudo su
+yum update
+```
+
+Now Install webserver
+
+```
+yum install httpd -y
+```
