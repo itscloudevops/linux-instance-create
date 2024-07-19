@@ -86,3 +86,51 @@ Now Install Framework
 ```
 sudo amazon-linux-extras install php8.0 -y
 ```
+
+
+Create and deploy index.html file📄📜
+
+```
+cd /var/www/html
+```
+
+vi index.html
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>ECS LAB</title>
+    <link
+      href="http://fonts.googleapis.com/css?family=Open+Sans"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <h1>Learn with DEV</h1>
+    <p>Welcome to Cloud Devops Class</p>
+<p>Thank you Everyone</p>
+  </body>
+</html>
+```
+
+How to save :-  press esc  --->  :wq
+
+
+### 10. Start your Website
+
+```
+service httpd start
+```
+
+### 11. Access Website Now
+
+
+Copy Instance Public-ip & paste it on Browser 🌏⛳🚀✌️
+
+
+========================== END========================================
