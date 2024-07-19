@@ -1,24 +1,24 @@
 # linux-instance-create👨‍💻
 
 
-##### Name and tags
+### 1. Name and tags
 
 ```
 my-linux-instance
 ```
 
-##### Go to AMI
+### 2. Go to AMI
 
 Choose free linux image version
 
 
-##### Instance type
+### 3. Instance type
 
 ```
 t2.micro
 ```
 
-##### Key pair
+### 4. Key pair
 
 Create a new keypair👇  or You can use existing keypair
 
@@ -26,7 +26,7 @@ Create a new keypair👇  or You can use existing keypair
 my-linux-key.ppk
 ```
 
-##### Network settings
+### 5. Network settings
 
 Click edit  ---->   VPC = default or custom
 
@@ -41,3 +41,13 @@ ssh   =  anywhere
 http  =  anywhere
 https =  anywhere
 ```
+
+### 6. Configure storage
+
+No need to customize anything
+
+### 7. Number of instances
+
+Your choice , example :- 1
+
+##### Launch Instance😊😊😎😎👍✌️
