@@ -136,3 +136,5 @@ Copy Instance Public-ip & paste it on Browser 🌏⛳🚀✌️
 
 
 ========================== END========================================
+
+- TERMINATE ALL YOUR RESOURCES
