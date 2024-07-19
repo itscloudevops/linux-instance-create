@@ -36,11 +36,9 @@ Auto-assign public IP  =  Enable
 
 Firewall (security groups)  =  Create a new security group   or You can use existing security group
 
-```
-ssh   =  anywhere
-http  =  anywhere
-https =  anywhere
-```
+- ssh   =  anywhere
+- http  =  anywhere
+- https =  anywhere
 
 ### 6. Configure storage
 
