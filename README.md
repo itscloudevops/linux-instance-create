@@ -100,23 +100,75 @@ Press-i
 
 ```
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>DEV Class</title>
-    <link
-      href="http://fonts.googleapis.com/css?family=Open+Sans"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link href="styles/style.css" rel="stylesheet" type="text/css" />
-  </head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LwD</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #edf1f5;
+        }
+        header {
+            background-color: #164578;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #7d5a6a;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #7d5a6a;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Learn-with-Dev Community</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main>
+        <h2>About Me</h2>
+        <p>We are Providing Multi-Cloud & Devops Online Trainning.</p>
+<p>Thank You</p>
+    </main>
 
-  <body>
-    <h1>Learn with DEV</h1>
-    <p>Welcome to Cloud Devops Class</p>
-<p>Thank you Everyone</p>
-  </body>
+<main>
+        <h2>Contact</h2>
+        <p>+91-9999999999</p>
+        <p>lwdcommunity@gmail.com</p>
+    <footer>
+        <p>&copy; 2024 LWD-community</p>
+    </footer>
+</body>
 </html>
 ```
 
