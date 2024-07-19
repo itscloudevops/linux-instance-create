@@ -103,7 +103,7 @@ Press-i
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>ECS LAB</title>
+    <title>DEV Class</title>
     <link
       href="http://fonts.googleapis.com/css?family=Open+Sans"
       rel="stylesheet"
