@@ -79,3 +79,10 @@ Now Install webserver
 ```
 yum install httpd -y
 ```
+
+
+Now Install Framework
+
+```
+sudo amazon-linux-extras install php8.0 -y
+```
