@@ -148,27 +148,26 @@ Press-i
 </head>
 <body>
     <header>
-        <h1>Welcome to Learn-with-Dev Community</h1>
+        <h1>Welcome to Learn-with-Dev</h1>
     </header>
     <nav>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        
+        <a href="#"> ENROLL HERE </a>
+        
     </nav>
     <main>
-        <h2>About Me</h2>
+        <h2>About Us</h2>
         <p>We are Providing Multi-Cloud & Devops Online Trainning.</p>
 <p>Thank You</p>
     </main>
 
-<main>
-        <h2>Contact</h2>
-        <p>+91-9999999999</p>
-        <p>lwdcommunity@gmail.com</p>
+
     <footer>
         <p>&copy; 2024 LWD-community</p>
     </footer>
 </body>
 </html>
+
 ```
 
 How to save :-  press esc  --->  :wq
