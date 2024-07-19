@@ -151,7 +151,6 @@ Press-i
         <h1>Welcome to Learn-with-Dev Community</h1>
     </header>
     <nav>
-        <a href="#">Home</a>
         <a href="#">About</a>
         <a href="#">Contact</a>
     </nav>
