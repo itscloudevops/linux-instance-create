@@ -51,3 +51,18 @@ No need to customize anything
 Your choice , example :- 1
 
 ##### Launch Instance😊😊😎😎👍✌️
+
+
+### 8. Connect your instance
+
+Copy Instance Public IPv4 address  and paste it on host name section ( putty )
+
+Click on SSH ( putty )  ---->  Again Click on AUTH  ( putty )   ---->  Now Click on Credentials   ---->  private key file authentication = my-linux-key.ppk
+
+Click on Open  --->  Click on Accept
+
+Login As 👇
+
+```
+ec2-user
+```
