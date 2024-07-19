@@ -1,4 +1,4 @@
-# linux-instance-create👨‍💻
+# Launch linux-ec2-instance & Deploy website 👨‍💻
 
 
 ### 1. Name and tags
