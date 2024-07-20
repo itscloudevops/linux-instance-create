@@ -5,7 +5,7 @@
 
 #### 2. Instance Type = t2.micro
 
-#### 3. Create a new keypair = mykey.ppk
+#### 3. Create a new keypair = mylinkey.ppk
 
 #### 4. VPC = default or custom
 
