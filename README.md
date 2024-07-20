@@ -1,13 +1,13 @@
 # Launch linux-ec2-instance & Deploy website 👨‍💻
 
 
-Create Linux-2 instance
+### 1. Create Linux-2 instance
 
-Instance Type = t2.micro
+### 2. Instance Type = t2.micro
 
-Create a new keypair = mykey.ppk
+### 3. Create a new keypair = mykey.ppk
 
-VPC = default or custom
+### 4. VPC = default or custom
 
 Subnet  = ap-south-1A  or No Preference
 
@@ -18,13 +18,14 @@ Firewall (security groups)  =  Create a new security group   or You can use exis
 - ssh   =  anywhere
 - http  =  anywhere
 - https =  anywhere
+  
 
-Number of instances = 1
+### 5. Number of instances = 1
 
 Launch Instance
 
 
-Connect your instance :-
+### 6. Connect your instance :-
 
 Copy Instance Public IPv4 address  and paste it on host name section ( putty )
 
@@ -32,7 +33,7 @@ Click on SSH ( putty )  ---->  Again Click on AUTH  ( putty )   ---->  Now Click
 
 Click on Open  --->  Click on Accept
 
-Login As = ec2-user
+### 7. Login As = ec2-user
 
 sudo su
 
@@ -52,9 +53,10 @@ How to save :-  press esc  --->  :wq
 
 service httpd start
 
-Copy Instance Public-ip & paste it on Browser 🌏⛳🚀✌️
+### 8. Copy Instance Public-ip & paste it on Browser 🌏⛳🚀✌️
+
+
+### 9. TERMINATE ALL YOUR RESOURCES
 
 
 ========================== END========================================
-
-- TERMINATE ALL YOUR RESOURCES
